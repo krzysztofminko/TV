@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Power Unlimited Power_data" version="1.3.0" audacityversion="2.3.0" sel0="6.4410003789" sel1="6.4410003789" vpos="0" h="0.0000000000" zoom="57.4444928167" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf57.19.100"/>
+		<tag name="major_brand" value="mp42"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="compatible_brands" value="isommp42"/>
+	</tags>
+	<wavetrack name="Power Unlimited Power" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198066">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800f13.au" len="198066" min="-0.799006" max="0.98304" rms="0.166182"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Power Unlimited Power" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198066">
+				<waveblock start="0">
+					<simpleblockfile filename="e08007f6.au" len="198066" min="-0.753976" max="0.851678" rms="0.158704"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Ścieżka dźwiękowa" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="280531">
+				<waveblock start="0">
+					<simpleblockfile filename="e08006e2.au" len="140265" min="-0.586982" max="0.705259" rms="0.121164"/>
+				</waveblock>
+				<waveblock start="140265">
+					<simpleblockfile filename="e0800ca7.au" len="140266" min="-0.755683" max="0.881301" rms="0.151473"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Ścieżka dźwiękowa" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="280531">
+				<waveblock start="0">
+					<simpleblockfile filename="e08008cf.au" len="140265" min="-0.592974" max="0.746359" rms="0.122377"/>
+				</waveblock>
+				<waveblock start="140265">
+					<simpleblockfile filename="e0800b1f.au" len="140266" min="-0.782729" max="0.896369" rms="0.154021"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
