@@ -692,7 +692,7 @@ MonoBehaviour:
   model: {fileID: 1972731107142214775}
   totalDuration: 6
   thunderParticles:
-  - {fileID: 8076794421056271663, guid: fca706982591b1a4e94ccb3e933512d9, type: 3}
+  - {fileID: 146, guid: fca706982591b1a4e94ccb3e933512d9, type: 3}
 --- !u!82 &5020767789285024632
 AudioSource:
   m_ObjectHideFlags: 0

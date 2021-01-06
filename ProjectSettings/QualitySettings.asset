@@ -230,7 +230,7 @@ QualitySettings:
     - Standalone
   - serializedVersion: 2
     name: Default
-    pixelLightCount: 5
+    pixelLightCount: 2
     shadows: 0
     shadowResolution: 0
     shadowProjection: 1
@@ -243,7 +243,7 @@ QualitySettings:
     blendWeights: 4
     textureQuality: 0
     anisotropicTextures: 1
-    antiAliasing: 4
+    antiAliasing: 2
     softParticles: 0
     softVegetation: 1
     realtimeReflectionProbes: 0
